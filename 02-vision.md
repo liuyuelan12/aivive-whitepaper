@@ -2,7 +2,9 @@
 
 ## 2.1 Thesis
 
-**Aivive is the first AI consumer economy where the act of using the product is, by construction, an act of monetary policy.**
+**Aivive is the first Recursive AI Protocol (RAP) — an AI consumer economy where the act of using the product is, by construction, an act of monetary policy.**
+
+A Recursive AI Protocol is defined by a single property: each unit of consumption recursively reduces the supply of the protocol's native asset, automatically and verifiably on-chain. The loop has no off-chain discretion, no privileged actor, and no requirement that users hold the asset to participate.
 
 The vision rests on three principles, each of which can be stated and tested:
 

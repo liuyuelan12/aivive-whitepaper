@@ -1,10 +1,10 @@
 ---
-description: The first AI consumer economy.
+description: The first Recursive AI Protocol.
 ---
 
 # Aivive
 
-### The First AI Consumer Economy
+### The First Recursive AI Protocol
 
 > Token: **AVV** · Network: Solana · Payment: Base
 > Website: [aivive.ai](https://aivive.ai) · X: [@AIVIVEHQ](https://x.com/AIVIVEHQ)
@@ -17,7 +17,7 @@ description: The first AI consumer economy.
 
 The AI generative content market is projected to surpass **$50B in annual end-user spend by 2027**, with image generation as its fastest-growing segment. Yet the dominant business model — flat-fee subscription to centralized incumbents — captures none of this value for the users producing it, and none for the open networks underwriting it.
 
-Aivive is the first AI consumer economy designed to close that gap. Every dollar of revenue earned by the platform's AI generation tools is converted, automatically and verifiably on-chain, into permanent destruction of the project's native token, *AVV*. Users do not need to hold the token to use the product. The platform does not retain its own revenue as middleman margin. Instead, the entire economic loop is publicly auditable: **usage flows in, scarcity flows out**, and the value of the network grows in lockstep with the cultural relevance of the application built on top of it.
+Aivive is the first **Recursive AI Protocol (RAP)** — an on-chain economic system where the act of using an AI product directly compresses the supply of the protocol's underlying asset, by construction and without intermediation. Every dollar of revenue earned by the platform's AI generation tools is converted, automatically and verifiably on-chain, into permanent reduction of *AVV* in circulation. Users do not need to hold the token to use the product. The platform does not retain its own revenue as middleman margin. Instead, the entire economic loop is publicly auditable: **usage flows in, scarcity flows out**, and the value of the network grows in lockstep with the cultural relevance of the application built on top of it.
 
 The flagship application, **aivive.ai**, is an AI image generation feed designed for the era when *AI artist* stops being a contradiction. Civitai meets Pinterest, built for taste over search. Designers, prompt artists, and the curious build profiles backed by their actual creative footprint and discover work through a feed engineered for the next wave of internet creators. Reputation is earned through what you ship. Every generation quietly fuels the deflationary loop, in real time.
 

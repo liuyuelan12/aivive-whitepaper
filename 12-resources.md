@@ -25,8 +25,9 @@
 
 | Term | Meaning |
 |---|---|
+| **RAP (Recursive AI Protocol)** | A new category of on-chain economic system in which each act of consuming an AI product recursively reduces the supply of the protocol's native asset, automatically and verifiably on-chain. Aivive is the first RAP. |
 | **AVV** | The native SPL token of the Aivive economy. Total supply 10B. Deflationary by design. |
-| **Aivive** | The economic primitive (network) and brand identity. Spans Solana and Base. |
+| **Aivive** | The first Recursive AI Protocol. Spans Solana and Base. |
 | **aivive.ai** | The flagship AI image generation feed, the primary consumer surface of Aivive. |
 | **CCTP** | Circle's Cross-Chain Transfer Protocol. The native, audited primitive for moving USDC across chains. |
 | **Burn cycle** | The weekly automated process by which platform revenue is converted into permanent *AVV* destruction. |

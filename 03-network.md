@@ -2,7 +2,7 @@
 
 ## 3.1 Network as Economic Primitive
 
-Aivive is not a Layer-1 blockchain. It is not a sidechain. It is, more precisely, an **economic primitive** that lives across two production-grade chains — Solana and Base — and is operated by an automated pipeline of audited smart contracts and serverless cron jobs.
+Aivive is not a Layer-1 blockchain. It is not a sidechain. It is, more precisely, the first instance of a **Recursive AI Protocol (RAP)** — an economic primitive that lives across two production-grade chains (Solana and Base) and is operated by an automated pipeline of audited smart contracts and serverless cron jobs.
 
 The choice not to build a new chain is deliberate. The cost of operating a credible new L1 in 2026 is high; the value of doing so for a single consumer application is low. By living on top of Solana (for token issuance and DEX liquidity) and Base (for stablecoin payment and consumer-app UX), Aivive inherits the security, liquidity, and infrastructure of two of the most active ecosystems in the industry.
 
