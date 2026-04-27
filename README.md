@@ -1,13 +1,11 @@
 ---
-description: The first AI consumer economy. Whitepaper v0.1 (Draft).
+description: The first AI consumer economy.
 ---
 
 # Aivive
 
 ### The First AI Consumer Economy
 
-> **Whitepaper · v0.1 (Draft)** · April 2026
->
 > Token: **AVV** · Network: Solana · Payment: Base
 > Website: [aivive.ai](https://aivive.ai) · X: [@AIVIVEHQ](https://x.com/AIVIVEHQ)
 

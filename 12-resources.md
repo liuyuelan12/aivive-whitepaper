@@ -38,11 +38,7 @@
 
 ---
 
-**Aivive Whitepaper · v0.1 (Draft) · April 2026**
-
 For comments, partnership inquiries, or media requests, write to **contact@aivive.ai**.
-
-The authoritative version of this document is published at [aivive.ai/docs/whitepaper](https://aivive.ai/docs/whitepaper) (forthcoming).
 
 ---
 

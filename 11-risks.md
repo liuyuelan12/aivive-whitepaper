@@ -24,7 +24,7 @@ Token-based products operate in evolving regulatory environments. A jurisdiction
 
 ## 11.6 Roadmap Execution Risk
 
-The 60-day production timeline is ambitious. While progress is on track at the time of this draft, circumstances could delay specific milestones. **The project commits to transparent communication of any timeline adjustments.**
+The 60-day production timeline is ambitious. While progress is on track, circumstances could delay specific milestones. **The project commits to transparent communication of any timeline adjustments.**
 
 ## 11.7 Forward-Looking Statements
 
