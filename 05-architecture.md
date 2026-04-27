@@ -16,7 +16,7 @@ The Aivive stack is intentionally serverless and capital-efficient.
 Authentication is handled by **Privy**. A single Privy account derives **two embedded wallets** simultaneously:
 
 - One **EVM wallet** for USDC payment on Base.
-- One **Solana wallet** for receiving future airdrops or interacting with on-chain primitives in V1.5+.
+- One **Solana wallet** for receiving future airdrops or interacting with on-chain primitives in later phases.
 
 Users perceive a single account; the underlying dual-chain infrastructure is invisible to them.
 

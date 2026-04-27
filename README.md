@@ -39,7 +39,7 @@ Use the sidebar to navigate, or start here:
 - **[aivive.ai](04-product.md)** — the flagship feed
 - **[Tokenomics](06-tokenomics.md)** — supply, distribution, vesting
 - **[Token Utility & The Loop](07-token-utility.md)** — how *AVV* gets rarer
-- **[Roadmap](08-roadmap.md)** — V1 → V1.5 → V2 → V2+
+- **[Roadmap](08-roadmap.md)** — Launch → Social Sinks → Creator Economy → Network Effects
 - **[Risk Disclosures](11-risks.md)** — material risks
 
 For comments, partnership inquiries, or media requests, write to **contact@aivive.ai**.

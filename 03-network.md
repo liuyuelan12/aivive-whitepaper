@@ -56,7 +56,7 @@ Every step in this loop is observable. There is no place in the pipeline where d
 
 ## 3.4 What This Looks Like in Practice
 
-Within the first 60 days of mainnet operation, the network will execute its first revenue-driven burn cycle ($100 USDC pilot). By the end of the V1 launch window, weekly burn cycles will be operational. A public dashboard at `aivive.ai/burn` and a Dune Analytics page at `dune.com/aivive` will surface every burn transaction with a Solscan link, alongside aggregate metrics: cumulative *AVV* destroyed, USDC inflow, average burn-per-week, and effective deflationary rate.
+Within the first 60 days of mainnet operation, the network will execute its first revenue-driven burn cycle ($100 USDC pilot). By the end of the initial launch window, weekly burn cycles will be operational. A public dashboard at `aivive.ai/burn` and a Dune Analytics page at `dune.com/aivive` will surface every burn transaction with a Solscan link, alongside aggregate metrics: cumulative *AVV* destroyed, USDC inflow, average burn-per-week, and effective deflationary rate.
 
 This is what a verifiable AI consumer economy looks like in motion.
 

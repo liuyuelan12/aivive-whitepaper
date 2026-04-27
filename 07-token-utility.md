@@ -4,9 +4,9 @@
 
 **AVV is the deflationary anchor of the Aivive consumer economy.**
 
-It is **not** a payment token used by end users to fund individual generations. It is **not** a staking token gating product access. It is **not** a governance token in the V1 timeframe.
+It is **not** a payment token used by end users to fund individual generations. It is **not** a staking token gating product access. It is **not** a governance token at launch.
 
-Its sole V1 utility — and, the project argues, its most credible utility — is that it is **permanently destroyed at a rate proportional to the platform's revenue**. Every dollar spent on aivive.ai produces, in expectation, a measurable, irreversible reduction in *AVV* supply.
+Its sole launch-phase utility — and, the project argues, its most credible utility — is that it is **permanently destroyed at a rate proportional to the platform's revenue**. Every dollar spent on aivive.ai produces, in expectation, a measurable, irreversible reduction in *AVV* supply.
 
 ## 7.2 The Three-Segment Loop
 
@@ -175,15 +175,15 @@ export const swapAndBurnCron = inngest.createFunction(
 
 Every step is checkpointed by Inngest. Failure at any step pauses the cycle until human intervention; nothing is destroyed prematurely.
 
-## 7.6 Forward Utility (V1.5 and Beyond)
+## 7.6 Forward Utility — Beyond Launch
 
 The roadmap describes a phased expansion of utility:
 
-- **V1.5 (60–90 days post-launch)**: Tipping and content boosting. Users acquire small amounts of *AVV* to reward creators on the feed or to elevate their own work to higher visibility.
-- **V2 (90–180 days)**: Creator revenue share and stake-to-earn priority generation.
-- **V2+ (180+ days)**: NFT marketplace for cloned voices and style models; on-chain governance of ecosystem allocations.
+- **Social Sinks (60–90 days post-launch)**: Tipping and content boosting. Users acquire small amounts of *AVV* to reward creators on the feed or to elevate their own work to higher visibility.
+- **Creator Economy (90–180 days)**: Creator revenue share and stake-to-earn priority generation.
+- **Network Effects (180+ days)**: NFT marketplace for cloned voices and style models; on-chain governance of ecosystem allocations.
 
-These extensions will be introduced **only after V1's deflationary loop is operating at scale** and producing observable, replicable outcomes. The token's value accrual story should not depend on speculative future utility — it should be intelligible at every stage from V1 onward.
+These extensions will be introduced **only after the launch deflationary loop is operating at scale** and producing observable, replicable outcomes. The token's value accrual story should not depend on speculative future utility — it should be intelligible from launch day onward.
 
 ---
 

@@ -1,6 +1,6 @@
 # 8. Roadmap
 
-## 8.1 V1: Launch (April 2026 – June 2026, 60 days)
+## 8.1 Launch (April 2026 – June 2026, 60 days)
 
 The initial production launch ships within 60 days from project inception.
 
@@ -16,7 +16,7 @@ The initial production launch ships within 60 days from project inception.
 | **W8** (Jun 9–15) | E2E test coverage, content seeding, TGE preparation, Raydium liquidity provisioning |
 | **W9** (Jun 16–20) | Public soft launch, listing application submitted with full data package |
 
-## 8.2 V1.5: Social Token Sinks (June 2026 – August 2026)
+## 8.2 Social Sinks (June 2026 – August 2026)
 
 Post-launch, the immediate roadmap focus is to add direct-user *AVV* utility:
 
@@ -24,15 +24,15 @@ Post-launch, the immediate roadmap focus is to add direct-user *AVV* utility:
 - **Boosting** — elevate posts in the feed by spending *AVV*
 - **Stake-to-Earn** priority tier — stake *AVV* to unlock priority generation queue + Pro-only quality tier
 
-## 8.3 V2: Creator Economy (August 2026 – December 2026)
+## 8.3 Creator Economy (August 2026 – December 2026)
 
-V2 expands the network to support a true creator economy:
+The next phase expands the network to support a true creator economy:
 
 - **Revenue share** for top creators, paid in *AVV*
 - **Advanced staking tiers** with new privileges
 - **Light governance** over the Ecosystem allocation (30% of supply)
 
-## 8.4 V2+: Network Effects (Q4 2026 onwards)
+## 8.4 Network Effects (Q4 2026 onwards)
 
 - **Voice cloning** and a **style marketplace** bring new generation modalities into the loop
 - **NFT primitives** allow creators to mint signature styles

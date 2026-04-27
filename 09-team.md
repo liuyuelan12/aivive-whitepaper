@@ -10,7 +10,7 @@ The same entity has previously launched and operates *Red Horse* (RH), an SPL to
 
 ## 9.2 Core Team
 
-The core team for the V1 launch consists of two contributors operating with a Claude-based AI development harness:
+The core team consists of two contributors operating with a Claude-based AI development harness:
 
 | Role | Holder |
 |---|---|

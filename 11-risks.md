@@ -16,7 +16,7 @@ The product depends on third-party AI generation APIs (fal.ai, OpenAI). A pricin
 
 ## 11.4 Liquidity Risk
 
-*AVV* will launch with bootstrap liquidity on Solana DEXs. Insufficient liquidity depth could cause swap execution to suffer high slippage during burn cycles. **The Liquidity allocation (18%) is structured to mitigate this risk in V1.**
+*AVV* will launch with bootstrap liquidity on Solana DEXs. Insufficient liquidity depth could cause swap execution to suffer high slippage during burn cycles. **The Liquidity allocation (18%) is structured to mitigate this risk at launch.**
 
 ## 11.5 Regulatory Risk
 
