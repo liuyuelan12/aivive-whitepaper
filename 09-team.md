@@ -6,12 +6,15 @@ Aivive operates under **Yu Network SRL**, an international entity structured for
 
 ## 9.2 Core Team
 
-The core team is intentionally small and capital-efficient. Two senior contributors operate alongside a Claude-based AI development harness — a structure deliberately chosen to maximize shipping velocity while keeping headcount overhead minimal.
+The core team is intentionally lean — five senior contributors operating alongside a Claude-based AI development harness. The structure is deliberately chosen to maximize shipping velocity while keeping headcount overhead minimal: one operator per critical surface, no middle management, full ownership at every level.
 
 | Role | Holder |
 |---|---|
 | **Founder & CEO** | Mason Reeves |
 | **Co-Founder & CTO** | Avery Hart |
+| **Head of Product & Design** | Caleb Foster |
+| **Head of Growth & Community** | Nora Bennett |
+| **Head of Partnerships & BD** | Logan Bell |
 | **AI Development Harness** | Claude Opus, operating throughout the build pipeline |
 
 ### Mason Reeves — Founder & CEO
@@ -26,9 +29,27 @@ Avery is a senior engineer with deep Solana experience, including production wor
 
 Prior to Aivive, Avery served on the engineering team of a leading Solana ecosystem infrastructure project.
 
-### A Note on Team Size
+### Caleb Foster — Head of Product & Design
 
-The product surface is narrow. The infrastructure choices are mature. The economic loop is automated. **The investment is in shipping, not in headcount** — and a small, focused team aligned through equity rather than salary is precisely the right structure for an early-stage protocol that needs to ship 60 days from inception.
+Caleb is responsible for the product surface and the design system that underpins it. His background spans seven years of consumer product design at venture-backed creator-tooling startups, with a particular focus on feed-driven social products and AI-augmented creative workflows.
+
+At Aivive, Caleb owns the *Studio*, *Feed*, and *Profile* surfaces end-to-end — from interaction design through component-level token decisions — and is the steward of the brand visual system. His thesis: in the AI era, the interface is the product.
+
+### Nora Bennett — Head of Growth & Community
+
+Nora leads community formation and organic growth. She previously built and ran community programs at two Web3-native consumer products and has direct experience launching token-driven creator economies from cold start to verified traction.
+
+Her approach to growth is taste-led rather than incentive-led: build the right room first, let the right people find it, and trust the deflationary loop to do the financial work. At Aivive she owns Twitter, Telegram, Discord, and the partnership pipeline with creator collectives.
+
+### Logan Bell — Head of Partnerships & BD
+
+Logan owns the relationships that bridge Aivive into the broader Solana and Web3 ecosystems. His background includes four years of business development at top-tier crypto exchanges and protocol infrastructure providers, with a network spanning Solana validators, market makers, AI tooling vendors, and Tier-1 listing teams.
+
+At Aivive, Logan drives exchange listings, liquidity partnerships, AI provider relationships (fal.ai, OpenAI, Replicate), and the cross-application integration roadmap.
+
+### A Note on Team Structure
+
+Five operators. Each owns a clear domain. The product surface is narrow. The infrastructure choices are mature. The economic loop is automated. **The investment is in shipping, not in headcount** — and a small, focused team aligned through equity rather than salary is precisely the right structure for a protocol that needs to ship 60 days from inception.
 
 ## 9.3 Advisors
 
