@@ -70,7 +70,7 @@ Aivive proposes a fourth pattern.
 
 > **What if the way you fund an AI product was the same as the way you make its asset rarer?**
 
-What if every dollar of revenue the platform earns was, by design and not by promise, converted into a permanent reduction of token supply? What if the loop ran automatically, on a public schedule, with every step verifiable on-chain? What if the user never had to hold or stake the token to participate, but every act of creation nonetheless contributed to the asset's scarcity?
+What if a programmable share of every dollar of revenue the platform earns was, by design and not by promise, routed into a permanent reduction of token supply? What if the loop ran automatically, on a public schedule, with every step verifiable on-chain? What if the user never had to hold or stake the token to participate, but every act of creation nonetheless contributed to the asset's scarcity?
 
 This is not a thought experiment. It is the operating model of *Aivive* — and the first instance of a new category we call a **Recursive AI Protocol (RAP)**: an on-chain economic system where each act of consuming the AI product *recursively* tightens the supply of the protocol's underlying asset.
 

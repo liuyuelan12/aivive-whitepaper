@@ -1,12 +1,11 @@
 ---
 description: The first Recursive AI Protocol.
 ---
-
 # Aivive
 
 ### The First Recursive AI Protocol
 
-> Token: **AVV** · Network: Solana · Payment: Base
+> Token: **AVV** · Network: Solana
 > Website: [aivive.ai](https://aivive.ai) · X: [@AIVIVEHQ](https://x.com/AIVIVEHQ)
 
 ---
@@ -17,7 +16,7 @@ description: The first Recursive AI Protocol.
 
 The AI generative content market is projected to surpass **$50B in annual end-user spend by 2027**, with image generation as its fastest-growing segment. Yet the dominant business model — flat-fee subscription to centralized incumbents — captures none of this value for the users producing it, and none for the open networks underwriting it.
 
-Aivive is the first **Recursive AI Protocol (RAP)** — an on-chain economic system where the act of using an AI product directly compresses the supply of the protocol's underlying asset, by construction and without intermediation. Every dollar of revenue earned by the platform's AI generation tools is converted, automatically and verifiably on-chain, into permanent reduction of *AVV* in circulation. Users do not need to hold the token to use the product. The platform does not retain its own revenue as middleman margin. Instead, the entire economic loop is publicly auditable: **usage flows in, scarcity flows out**, and the value of the network grows in lockstep with the cultural relevance of the application built on top of it.
+Aivive is the first **Recursive AI Protocol (RAP)** — an on-chain economic system where the act of using an AI product directly compresses the supply of the protocol's underlying asset, by construction and without intermediation. A programmable share of every dollar of revenue earned by the platform's AI generation tools is routed, automatically and verifiably on-chain, into permanent reduction of *AVV* in circulation. Users do not need to hold the token to use the product. The platform does not retain its own revenue as middleman margin. Instead, the entire economic loop is publicly auditable: **usage flows in, scarcity flows out**, and the value of the network grows in lockstep with the cultural relevance of the application built on top of it.
 
 The flagship application, **aivive.ai**, is an AI image generation feed designed for the era when *AI artist* stops being a contradiction. Civitai meets Pinterest, built for taste over search. Designers, prompt artists, and the curious build profiles backed by their actual creative footprint and discover work through a feed engineered for the next wave of internet creators. Reputation is earned through what you ship. Every generation quietly fuels the deflationary loop, in real time.
 
@@ -38,7 +37,7 @@ Use the sidebar to navigate, or start here:
 - **[The Aivive Network](03-network.md)** — economic primitive across Solana + Base
 - **[aivive.ai](04-product.md)** — the flagship feed
 - **[Tokenomics](06-tokenomics.md)** — supply, distribution, vesting
-- **[Token Utility & The Loop](07-token-utility.md)** — how *AVV* gets rarer
+- **[Token Utility &amp; The Loop](07-token-utility.md)** — how *AVV* gets rarer
 - **[Roadmap](08-roadmap.md)** — Launch → Social Sinks → Creator Economy → Network Effects
 - **[Risk Disclosures](11-risks.md)** — material risks
 
