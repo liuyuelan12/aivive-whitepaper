@@ -6,7 +6,7 @@
 
 It is **not** a payment token used by end users to fund individual generations. It is **not** a staking token gating product access. It is **not** a governance token at launch.
 
-Its sole launch-phase utility — and, the project argues, its most credible utility — is that it is **permanently destroyed at a rate proportional to the platform's revenue**. A programmable share of every dollar spent on aivive.ai produces, in expectation, a measurable, irreversible reduction in *AVV* supply.
+Its sole launch-phase utility — and, the project argues, its most credible utility — is that it is **permanently destroyed at a rate proportional to the platform's revenue**. A programmable share of platform revenue from aivive.ai produces, in expectation, a measurable, irreversible reduction in *AVV* supply.
 
 ## 7.2 The Three-Segment Loop
 
